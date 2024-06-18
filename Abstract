@@ -1,1 +1,3 @@
-This project is constructed upon convolutional neural network (CNN) model .It is a python based application for pneumonia detection in chest X-ray images using a pre-trained machine learning model. The user can upload an image, triggering the model's prediction, and the result is displayed with a spoken announcement indicating whether the X-ray indicates pneumonia or is normal.
+This project is constructed upon convolutional neural network (CNN) model .
+It is a python based application for pneumonia detection in chest X-ray images using a pre-trained machine learning model. 
+The user can upload an image, triggering the model's prediction, and the result is displayed with a spoken announcement indicating whether the X-ray indicates pneumonia or is normal.
